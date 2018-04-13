@@ -1,0 +1,17 @@
+2018/04/14 00:30:32 [error] 4984#3816: *1 CreateFile() "C:\nginx-1.13.12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/04/14 00:49:37 [notice] 5280#2192: signal process started
+2018/04/14 01:03:22 [error] 4984#3816: *33 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:04:45 [error] 4984#3816: *39 CreateFile() "C:\nginx-1.13.12/html/56" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /56 HTTP/1.1", host: "localhost"
+2018/04/14 01:05:22 [error] 4984#3816: *59 CreateFile() "C:\nginx-1.13.12/html/67" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /67 HTTP/1.1", host: "localhost"
+2018/04/14 01:06:39 [notice] 6960#5608: signal process started
+2018/04/14 01:09:54 [notice] 2756#980: signal process started
+2018/04/14 01:10:34 [notice] 6796#2756: signal process started
+2018/04/14 01:10:34 [error] 6796#2756: CreateFile() "C:\nginx-1.13.12/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/04/14 01:13:47 [error] 4984#3816: *94 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:13:53 [error] 4984#3816: *100 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:14:15 [error] 4984#3816: *106 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:14:19 [error] 4984#3816: *106 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:15:11 [error] 4984#3816: *112 directory index of "C:\nginx-1.13.12/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/04/14 01:16:13 [error] 4984#3816: *131 CreateFile() "C:\nginx-1.13.12/html/78" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /78 HTTP/1.1", host: "localhost"
+2018/04/14 01:25:35 [error] 5968#5944: *1 CreateFile() "C:\nginx-1.13.12/GOT/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/04/14 01:25:57 [error] 5968#5944: *7 CreateFile() "C:\nginx-1.13.12/GOT/78" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /78 HTTP/1.1", host: "localhost"
